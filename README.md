@@ -64,7 +64,7 @@ D --> G
 %% 3. HYBRID QUANTUM-CLASSICAL INFERENCE
 %% ============================================================
 
-subgraph HQC["3️⃣ Hybrid Quantum-Classical Inference<br/>Monte Carlo Interrogation"]
+subgraph HQC["3️⃣ Hybrid Quantum-Classical Inference and Monte Carlo Interrogation"]
 
 Loop["Loop Control<br/>i = 1 → N<br/>N = 30 Samples"]
 
