@@ -216,12 +216,12 @@ JSON --> Response
 %% STYLING
 %% ============================================================
 
-classDef process fill:#eef6ff,stroke:#2563eb,stroke-width:1.5px;
-classDef data fill:#fff7cc,stroke:#ca8a04,stroke-width:1.5px;
-classDef decision fill:#ffe4e6,stroke:#be123c,stroke-width:2px;
-classDef success fill:#dcfce7,stroke:#15803d,stroke-width:3px;
-classDef warning fill:#fef3c7,stroke:#d97706,stroke-width:3px;
-classDef danger fill:#fee2e2,stroke:#b91c1c,stroke-width:3px;
+classDef process fill:#ffffff,stroke:#2563eb,stroke-width:2px,color:#000000;
+classDef data fill:#ffffff,stroke:#ca8a04,stroke-width:2px,color:#000000;
+classDef decision fill:#ffffff,stroke:#be123c,stroke-width:2px,color:#000000;
+classDef success fill:#ffffff,stroke:#15803d,stroke-width:3px,color:#000000;
+classDef warning fill:#ffffff,stroke:#d97706,stroke-width:3px,color:#000000;
+classDef danger fill:#ffffff,stroke:#b91c1c,stroke-width:3px,color:#000000;
 
 class A,B,C,D,E,F,G,FE,Drop,Enc,QC,QM,TS,SM,COL,AGG,Grad,CAM,Relu,Up,Heat,Encode,JSON process;
 class Input,Response,H,FV,Logits,Mean,Var data;
